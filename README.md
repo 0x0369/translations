@@ -13,4 +13,5 @@ Fork this repo so you have your own version to work on. Then copy the "English" 
 
 ## How to submit your contributions.
 
-Please ensure you contact one of the administrators in our current [Discord](https://sensory.gg/discord) with your work and ensure it is uploaded using a drive of your choice.  [Google Drive](https://drive.google.com), [Proton Drive](https://drive.protonmail.com), [DropBox](https://www.dropbox.com), etc..
+Please ensure you contact one of the administrators in our current [Discord](https://sensory.gg/discord)
+poomers#5233, Chairman#9244, Dummy#0885
